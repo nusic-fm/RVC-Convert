@@ -1,1 +1,1 @@
-# AICoverGen Dependencies English
+run setup.py
